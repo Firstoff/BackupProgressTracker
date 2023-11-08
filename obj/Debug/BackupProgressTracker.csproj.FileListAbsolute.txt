@@ -1,0 +1,7 @@
+C:\code\BackupProgressTracker\bin\Debug\BackupProgressTracker.exe.config
+C:\code\BackupProgressTracker\bin\Debug\BackupProgressTracker.exe
+C:\code\BackupProgressTracker\bin\Debug\BackupProgressTracker.pdb
+C:\code\BackupProgressTracker\obj\Debug\BackupProgressTracker.csproj.AssemblyReference.cache
+C:\code\BackupProgressTracker\obj\Debug\BackupProgressTracker.csproj.CoreCompileInputs.cache
+C:\code\BackupProgressTracker\obj\Debug\BackupProgressTracker.exe
+C:\code\BackupProgressTracker\obj\Debug\BackupProgressTracker.pdb
