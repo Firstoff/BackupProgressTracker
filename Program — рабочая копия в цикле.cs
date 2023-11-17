@@ -76,7 +76,7 @@ public class Program
 {
     public static void Main()
     {
-        string serverName = "zxhome\\mssql";
+        string serverName = "srv1";
         string databaseName = "northwind33";
 
         BackupProgressTracker tracker = new BackupProgressTracker(serverName, databaseName);
